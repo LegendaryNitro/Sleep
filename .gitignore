@@ -1,0 +1,27 @@
+# Logs
+https://aicklgyxxviroorfrbrf.supabase.co
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFpY2tsZ3l4eHZpcm9vcmZyYnJmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc3ODAyMjUsImV4cCI6MjA3MzM1NjIyNX0.e-1NykoyAwWwxUuxXmRXFUTP3M2te5LFT7wur4hpg5o
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+logs
