@@ -5,10 +5,9 @@ import typography from "@tailwindcss/typography";
 export default {
   darkMode: ["class"],
   content: [
-    "./pages/**/*.{ts,tsx}",
-    "./components/**/*.{ts,tsx}",
-    "./app/**/*.{ts,tsx}",
-    "./src/**/*.{ts,tsx}",
+    "./**/*.{ts,tsx}",
+    "!./dist/**",
+    "!./node_modules/**",
   ],
   prefix: "",
   theme: {
